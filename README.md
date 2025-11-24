@@ -108,16 +108,3 @@ pandas, numpy – manipulação e análise de dados
 matplotlib, seaborn – visualização de dados
 
 scikit-learn – pré-processamento, modelagem e métricas
-
-Como Executar:
-Google Colab
-
-Acesse o notebook na pasta notebooks/.
-
-Clique em “Open in Colab” (se você adicionar o badge/link).
-
-Execute as células em ordem.
-
-Caso use dados locais, ajuste o caminho dos arquivos na seção de carregamento do dataset.
-
-
