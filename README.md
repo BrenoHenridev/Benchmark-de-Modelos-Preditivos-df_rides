@@ -22,7 +22,6 @@ Com isso, o projeto poderia apoiar decisões como:
 ## Dataset
 
 - **Nome:** `df_rides`
-- **Origem:** dataset utilizado em atividades educacionais (EBAC / estudos pessoais).
 - **Unidade de análise:** cada linha representa uma corrida.
 - **Principais tipos de variáveis:**
   - Dados de tempo (data/hora da corrida);
